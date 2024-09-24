@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative-AI**
 
-- 💬 Ask me about **Project ideas, methods to solve it**
+- 💬 Ask me about **Project ideas**
 
 - 📫 How to reach me **shubhijain181@gmail.com**
 
