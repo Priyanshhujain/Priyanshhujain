@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **shubhijain181@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a_NayQFaKPRgVZ_JCBkUnr1YCy1lpFV_/view?usp=drive_link](https://drive.google.com/file/d/1a_NayQFaKPRgVZ_JCBkUnr1YCy1lpFV_/view?usp=drive_link)
+- 📄 Know about my experiences
+- (https://drive.google.com/file/d/1a_NayQFaKPRgVZ_JCBkUnr1YCy1lpFV_/view?usp=drive_link)
 
 - ⚡ Fun fact **I Think understanding the data is more complex then it looks.**
 
